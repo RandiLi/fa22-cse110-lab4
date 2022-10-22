@@ -35,7 +35,7 @@
 16. part2-question16.js
 17. The result will be {2, 4, 6}; as the function calls doSomething (which multiplies given number by 2) on all entries in the input array, and returns the new array.
 18. part2-question18.js
-19. '1  
+19.  '1  
      4  
      3  
      2'
