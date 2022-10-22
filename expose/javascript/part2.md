@@ -11,3 +11,7 @@
 11. This function will return the array {50, 100, 150}; because the for loop resets on each iteration, redeclaring discountedPrice on each iteration, not causing an error.
 12. notations:
     1. student.name
+    2. student['Grad Year']
+    3. student.greeting()
+    4. student['Favorite Teacher'].name
+    5. student.courseLoad[0];
