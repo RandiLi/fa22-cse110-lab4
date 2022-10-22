@@ -9,5 +9,5 @@
 9. This code will cause an error; for the same reason as question 1: i was defined with the let keyword.
 10. Line 12 will print "3"; because the length of the input array is 3 and the length variable is constant.
 11. This function will return the array {50, 100, 150}; because the for loop resets on each iteration, redeclaring discountedPrice on each iteration, not causing an error.
-12.
-    - student.name
+12. notations:
+    1. student.name
